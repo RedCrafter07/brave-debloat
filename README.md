@@ -23,7 +23,7 @@ A lightweight Preferences file to quickly debloat your Brave Browser user profil
    - Windows: `%LOCALAPPDATA%\BraveSoftware\Brave-Browser\User Data\`
 6. Identify your profile folder (usually "Default" for new installs, or the folder with the most recent modification date).
 7. *optional* Delete all contents inside that profile folder. This is not required but recommended.
-8. Copy and paste the contents of the unzipped folder into your profile folder.
+8. Paste the Preferences file you've downloaded to your Brave profile (it **has to be named Preferences**)
 9. Start Brave. If you see a popup warning about changed settings, confirm to keep the new settings.
 10. Done! Your Brave profile is now debloated.
 
