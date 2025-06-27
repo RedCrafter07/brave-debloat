@@ -114,6 +114,7 @@
       ],
       "sidebar_show_option": 3
     },
+    "tabs_search_show": false,
     "top_site_suggestions_enabled": false,
     "twitter_embed_default": true,
     "wallet": {
